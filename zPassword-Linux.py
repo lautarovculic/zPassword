@@ -11,4 +11,4 @@ def password_generator(longitud):
 password = password_generator(12)
 print("zPassword - Lautaro Villarreal Culic'")
 print("Contraseña: ", password)
-print("lautarovculic.com")
+print("https://lautarovculic.com")
